@@ -9,8 +9,9 @@ The comments above each statement provide information on what is going to be que
 There is a text file in this repo named advanced_querying_OUTPUT.txt. This file
 includes the output from each query.
 
-NOTE: There are two .sql files in this repo you need to run before running th
+### NOTE: There are two .sql files in this repo you need to run before running th
       queries. The first .sql file is BowlingLeagueStructure.sql. After running
       that file, run the BowlingLeagueData.sql file.Doing this in order will ensure
       you set up the database and have the structure and data entered correctly.
-NOTE: The data being used is fictional and is for practice only.
+
+### NOTE: The data being used is fictional and is for practice only.
