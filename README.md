@@ -12,8 +12,8 @@ includes the output from each query.
 ### NOTE: 
 There are two .sql files in this repo you need to run before running the
 queries. The first .sql file is BowlingLeagueStructure.sql. After running
-that file, run the BowlingLeagueData.sql file.Doing this in order will ensure
-you set up the database and have the structure and data entered correctly.
+that file, run the BowlingLeagueData.sql file. Doing this in the correct order 
+will ensure you set up the database and have the structure and data entered correctly.
 
 ### NOTE:
 The data being used is fictional and is for practice only.
