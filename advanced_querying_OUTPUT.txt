@@ -1,0 +1,578 @@
+NOTE: The SQL file related to this output is advanced_querying.sql
+
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+1 Marlins            2 Fournier                  1          1
+1 Marlins            2 Fournier                  1          3
+1 Marlins            2 Fournier                  5          2
+1 Marlins            2 Fournier                 10          1
+1 Marlins            2 Fournier                 10          3
+1 Marlins            2 Fournier                 13          1
+1 Marlins            2 Fournier                 13          3
+1 Marlins            2 Fournier                 17          2
+1 Marlins            2 Fournier                 21          1
+1 Marlins            2 Fournier                 21          3
+1 Marlins            2 Fournier                 25          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+1 Marlins            2 Fournier                 29          1
+1 Marlins            2 Fournier                 29          3
+1 Marlins            2 Fournier                 34          2
+1 Marlins            2 Fournier                 37          2
+1 Marlins            2 Fournier                 41          1
+1 Marlins            2 Fournier                 41          3
+1 Marlins            2 Fournier                 45          2
+1 Marlins            2 Fournier                 49          1
+1 Marlins            2 Fournier                 49          3
+1 Marlins            2 Fournier                 53          2
+2 Sharks             5 Patterson                 1          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+2 Sharks             5 Patterson                 6          2
+2 Sharks             5 Patterson                 9          1
+2 Sharks             5 Patterson                 9          3
+2 Sharks             5 Patterson                14          1
+2 Sharks             5 Patterson                14          3
+2 Sharks             5 Patterson                18          2
+2 Sharks             5 Patterson                23          1
+2 Sharks             5 Patterson                23          3
+2 Sharks             5 Patterson                26          2
+2 Sharks             5 Patterson                30          1
+2 Sharks             5 Patterson                30          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+2 Sharks             5 Patterson                33          2
+2 Sharks             5 Patterson                38          2
+2 Sharks             5 Patterson                42          1
+2 Sharks             5 Patterson                42          3
+2 Sharks             5 Patterson                47          2
+2 Sharks             5 Patterson                50          1
+2 Sharks             5 Patterson                50          3
+2 Sharks             5 Patterson                53          1
+2 Sharks             5 Patterson                53          3
+3 Terrapins          12 Viescas                  2          1
+3 Terrapins          12 Viescas                  2          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+3 Terrapins          12 Viescas                  5          1
+3 Terrapins          12 Viescas                  5          3
+3 Terrapins          12 Viescas                  9          2
+3 Terrapins          12 Viescas                 15          1
+3 Terrapins          12 Viescas                 15          3
+3 Terrapins          12 Viescas                 19          2
+3 Terrapins          12 Viescas                 22          1
+3 Terrapins          12 Viescas                 22          3
+3 Terrapins          12 Viescas                 27          2
+3 Terrapins          12 Viescas                 29          2
+3 Terrapins          12 Viescas                 33          1
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+3 Terrapins          12 Viescas                 33          3
+3 Terrapins          12 Viescas                 39          2
+3 Terrapins          12 Viescas                 43          1
+3 Terrapins          12 Viescas                 43          3
+3 Terrapins          12 Viescas                 46          2
+3 Terrapins          12 Viescas                 51          1
+3 Terrapins          12 Viescas                 51          3
+3 Terrapins          12 Viescas                 54          2
+4 Barracudas         16 Sheskey                  2          2
+4 Barracudas         16 Sheskey                  6          1
+4 Barracudas         16 Sheskey                  6          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+4 Barracudas         16 Sheskey                 10          2
+4 Barracudas         16 Sheskey                 16          1
+4 Barracudas         16 Sheskey                 16          3
+4 Barracudas         16 Sheskey                 20          2
+4 Barracudas         16 Sheskey                 24          1
+4 Barracudas         16 Sheskey                 24          3
+4 Barracudas         16 Sheskey                 28          2
+4 Barracudas         16 Sheskey                 30          2
+4 Barracudas         16 Sheskey                 34          1
+4 Barracudas         16 Sheskey                 34          3
+4 Barracudas         16 Sheskey                 40          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+4 Barracudas         16 Sheskey                 44          1
+4 Barracudas         16 Sheskey                 44          3
+4 Barracudas         16 Sheskey                 48          2
+4 Barracudas         16 Sheskey                 52          1
+4 Barracudas         16 Sheskey                 52          3
+4 Barracudas         16 Sheskey                 54          1
+4 Barracudas         16 Sheskey                 54          3
+5 Dolphins           20 Viescas                  3          1
+5 Dolphins           20 Viescas                  3          3
+5 Dolphins           20 Viescas                  7          1
+5 Dolphins           20 Viescas                  7          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+5 Dolphins           20 Viescas                 12          1
+5 Dolphins           20 Viescas                 12          3
+5 Dolphins           20 Viescas                 13          2
+5 Dolphins           20 Viescas                 18          1
+5 Dolphins           20 Viescas                 18          3
+5 Dolphins           20 Viescas                 22          2
+5 Dolphins           20 Viescas                 28          1
+5 Dolphins           20 Viescas                 28          3
+5 Dolphins           20 Viescas                 31          2
+5 Dolphins           20 Viescas                 36          2
+5 Dolphins           20 Viescas                 37          1
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+5 Dolphins           20 Viescas                 37          3
+5 Dolphins           20 Viescas                 42          2
+5 Dolphins           20 Viescas                 46          1
+5 Dolphins           20 Viescas                 46          3
+5 Dolphins           20 Viescas                 52          2
+5 Dolphins           20 Viescas                 55          2
+6 Orcas              24 Thompson                 3          2
+6 Orcas              24 Thompson                 8          2
+6 Orcas              24 Thompson                11          2
+6 Orcas              24 Thompson                14          2
+6 Orcas              24 Thompson                17          1
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+6 Orcas              24 Thompson                17          3
+6 Orcas              24 Thompson                24          2
+6 Orcas              24 Thompson                27          1
+6 Orcas              24 Thompson                27          3
+6 Orcas              24 Thompson                32          1
+6 Orcas              24 Thompson                32          3
+6 Orcas              24 Thompson                35          1
+6 Orcas              24 Thompson                35          3
+6 Orcas              24 Thompson                38          1
+6 Orcas              24 Thompson                38          3
+6 Orcas              24 Thompson                41          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+6 Orcas              24 Thompson                48          1
+6 Orcas              24 Thompson                48          3
+6 Orcas              24 Thompson                51          2
+6 Orcas              24 Thompson                55          1
+6 Orcas              24 Thompson                55          3
+7 Manatees           28 Viescas                  4          1
+7 Manatees           28 Viescas                  4          3
+7 Manatees           28 Viescas                  7          2
+7 Manatees           28 Viescas                 11          1
+7 Manatees           28 Viescas                 11          3
+7 Manatees           28 Viescas                 15          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+7 Manatees           28 Viescas                 20          1
+7 Manatees           28 Viescas                 20          3
+7 Manatees           28 Viescas                 21          2
+7 Manatees           28 Viescas                 26          1
+7 Manatees           28 Viescas                 26          3
+7 Manatees           28 Viescas                 31          1
+7 Manatees           28 Viescas                 31          3
+7 Manatees           28 Viescas                 35          2
+7 Manatees           28 Viescas                 39          1
+7 Manatees           28 Viescas                 39          3
+7 Manatees           28 Viescas                 44          2
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+7 Manatees           28 Viescas                 45          1
+7 Manatees           28 Viescas                 45          3
+7 Manatees           28 Viescas                 50          2
+7 Manatees           28 Viescas                 56          2
+8 Swordfish          32 Rosales                  4          2
+8 Swordfish          32 Rosales                  8          1
+8 Swordfish          32 Rosales                  8          3
+8 Swordfish          32 Rosales                 12          2
+8 Swordfish          32 Rosales                 16          2
+8 Swordfish          32 Rosales                 19          1
+8 Swordfish          32 Rosales                 19          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+8 Swordfish          32 Rosales                 23          2
+8 Swordfish          32 Rosales                 25          1
+8 Swordfish          32 Rosales                 25          3
+8 Swordfish          32 Rosales                 32          2
+8 Swordfish          32 Rosales                 36          1
+8 Swordfish          32 Rosales                 36          3
+8 Swordfish          32 Rosales                 40          1
+8 Swordfish          32 Rosales                 40          3
+8 Swordfish          32 Rosales                 43          2
+8 Swordfish          32 Rosales                 47          1
+8 Swordfish          32 Rosales                 47          3
+
+Winning Team         Team Captain         Match ID     Game #
+-------------------- -------------------- -------- ----------
+8 Swordfish          32 Rosales                 49          2
+8 Swordfish          32 Rosales                 56          1
+8 Swordfish          32 Rosales                 56          3
+
+168 rows selected. 
+
+
+Match Team Name  Bowler Name     Game Number  Raw Score
+----- ---------- --------------- ----------- ----------
+    1 Sharks     David Viescas             3        192
+    8 Orcas      Caleb Viescas             2        193
+   40 Swordfish  Steve Pundt               3        192
+
+
+Bowler                Raw Score
+-------------------- ----------
+27 William Thompson         193
+27 William Thompson         192
+19 John Viescas             191
+7 David Viescas             190
+3 John Kennedy              188
+31 Steve Pundt              184
+15 Kathryn Patterson        183
+27 William Thompson         182
+3 John Kennedy              182
+23 Caleb Viescas            180
+10 David Cunningham         180
+
+Bowler                Raw Score
+-------------------- ----------
+7 David Viescas             179
+19 John Viescas             179
+22 Alaina Hallmark          178
+23 Caleb Viescas            178
+3 John Kennedy              178
+27 William Thompson         178
+2 David Fournier            178
+7 David Viescas             177
+19 John Viescas             177
+2 David Fournier            176
+24 Sarah Thompson           176
+
+Bowler                Raw Score
+-------------------- ----------
+2 David Fournier            176
+24 Sarah Thompson           175
+11 Angel Kennedy            175
+26 Mary Thompson            175
+
+26 rows selected. 
+
+
+Tourney ID Tourney Date Location            
+---------- ------------ --------------------
+        15 12-JUL-13    Red Rooster Lanes   
+        16 19-JUL-13    Thunderbird Lanes   
+        17 26-JUL-13    Bolero Lanes        
+        18 02-AUG-13    Sports World Lanes  
+        19 09-AUG-13    Imperial Lanes      
+        20 16-AUG-13    Totem Lanes         
+
+6 rows selected. 
+
+
+Bowler                    Highest Raw Score
+------------------------- -----------------
+1 Barbara Fournier                      164
+2 David Fournier                        178
+3 John Kennedy                          191
+4 Sara Sheskey                          149
+5 Ann Patterson                         165
+6 Neil Patterson                        179
+7 David Viescas                         195
+8 Stephanie Viescas                     150
+9 Alastair Black                        164
+10 David Cunningham                     180
+11 Angel Kennedy                        194
+
+Bowler                    Highest Raw Score
+------------------------- -----------------
+12 Carol Viescas                        150
+13 Elizabeth Hallmark                   165
+14 Gary Hallmark                        179
+15 Kathryn Patterson                    191
+16 Richard Sheskey                      149
+17 Kendra Hernandez                     165
+18 Michael Hernandez                    180
+19 John Viescas                         193
+20 Suzanne Viescas                      149
+21 Zachary Ehrlich                      160
+22 Alaina Hallmark                      180
+
+Bowler                    Highest Raw Score
+------------------------- -----------------
+23 Caleb Viescas                        193
+24 Sarah Thompson                       178
+25 Megan Patterson                      164
+26 Mary Thompson                        180
+27 William Thompson                     195
+28 Michael Viescas                      150
+29 Bailey Hallmark                      164
+30 Rachel Patterson                     179
+31 Steve Pundt                          192
+32 Joe Rosales                          149
+
+32 rows selected. 
+
+
+ Bowler ID Bowler name          Handicap
+---------- -------------------- --------
+         8 Stephanie Viescas     52     
+         4 Sara Sheskey          52     
+        16 Richard Sheskey       52     
+        12 Carol Viescas         52     
+        32 Joe Rosales           52     
+        20 Suzanne Viescas       51     
+        28 Michael Viescas       51     
+        21 Zachary Ehrlich       47     
+         1 Barbara Fournier      46     
+         5 Ann Patterson         46     
+        17 Kendra Hernandez      46     
+
+ Bowler ID Bowler name          Handicap
+---------- -------------------- --------
+         9 Alastair Black        45     
+        29 Bailey Hallmark       45     
+        25 Megan Patterson       45     
+        13 Elizabeth Hallmark    43     
+        30 Rachel Patterson      39     
+        26 Mary Thompson         39     
+        14 Gary Hallmark         39     
+        18 Michael Hernandez     39     
+         2 David Fournier        39     
+        22 Alaina Hallmark       38     
+         6 Neil Patterson        38     
+
+ Bowler ID Bowler name          Handicap
+---------- -------------------- --------
+        10 David Cunningham      36     
+        15 Kathryn Patterson     34     
+        11 Angel Kennedy         33     
+        31 Steve Pundt           33     
+        23 Caleb Viescas         32     
+         3 John Kennedy          31     
+        27 William Thompson      30     
+         7 David Viescas         29     
+        19 John Viescas          29     
+        24 Sarah Thompson        28     
+
+32 rows selected. 
+
+
+Bowler Name               Current Average High Score
+------------------------- --------------- ----------
+Alaina Hallmark                       158        180
+Angel Kennedy                         163        194
+Caleb Viescas                         164        193
+David Cunningham                      160        180
+David Fournier                        157        178
+David Viescas                         168        195
+Gary Hallmark                         157        179
+John Kennedy                          166        191
+John Viescas                          168        193
+Kathryn Patterson                     162        191
+Mary Thompson                         157        180
+
+Bowler Name               Current Average High Score
+------------------------- --------------- ----------
+Michael Hernandez                     157        180
+Neil Patterson                        158        179
+Rachel Patterson                      157        179
+Steve Pundt                           163        192
+William Thompson                      167        195
+
+16 rows selected. 
+
+
+Bowler Name          Avg. Raw Score
+-------------------- --------------
+Sarah Thompson                  169
+David Viescas                   168
+John Viescas                    168
+William Thompson                167
+John Kennedy                    166
+Caleb Viescas                   164
+Angel Kennedy                   163
+Steve Pundt                     163
+Kathryn Patterson               162
+David Cunningham                160
+Alaina Hallmark                 158
+
+Bowler Name          Avg. Raw Score
+-------------------- --------------
+Neil Patterson                  158
+David Fournier                  157
+Gary Hallmark                   157
+Michael Hernandez               157
+Rachel Patterson                157
+Mary Thompson                   157
+
+17 rows selected. 
+
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+1 Red Rooster Lanes           3 Orcas            2,395
+1 Red Rooster Lanes           2 Terrapins        2,391
+1 Red Rooster Lanes           3 Dolphins         2,389
+1 Red Rooster Lanes           4 Swordfish        2,353
+1 Red Rooster Lanes           1 Marlins          2,351
+1 Red Rooster Lanes           1 Sharks           2,348
+1 Red Rooster Lanes           4 Manatees         2,292
+1 Red Rooster Lanes           2 Barracudas       2,289
+2 Thunderbird Lanes           6 Barracudas       2,448
+2 Thunderbird Lanes           6 Sharks           2,416
+2 Thunderbird Lanes           7 Manatees         2,401
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+2 Thunderbird Lanes           8 Swordfish        2,327
+2 Thunderbird Lanes           5 Marlins          2,297
+2 Thunderbird Lanes           8 Orcas            2,286
+2 Thunderbird Lanes           5 Terrapins        2,279
+2 Thunderbird Lanes           7 Dolphins         2,266
+3 Bolero Lanes               11 Manatees         2,415
+3 Bolero Lanes               10 Marlins          2,360
+3 Bolero Lanes                9 Terrapins        2,351
+3 Bolero Lanes               10 Barracudas       2,336
+3 Bolero Lanes               11 Orcas            2,314
+3 Bolero Lanes               12 Swordfish        2,311
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+3 Bolero Lanes               12 Dolphins         2,311
+3 Bolero Lanes                9 Sharks           2,234
+4 Imperial Lanes             14 Orcas            2,389
+4 Imperial Lanes             16 Swordfish        2,382
+4 Imperial Lanes             13 Marlins          2,380
+4 Imperial Lanes             15 Manatees         2,370
+4 Imperial Lanes             16 Barracudas       2,341
+4 Imperial Lanes             13 Dolphins         2,338
+4 Imperial Lanes             14 Sharks           2,325
+4 Imperial Lanes             15 Terrapins        2,287
+5 Sports World Lanes         19 Swordfish        2,380
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+5 Sports World Lanes         18 Dolphins         2,380
+5 Sports World Lanes         18 Sharks           2,363
+5 Sports World Lanes         17 Marlins          2,361
+5 Sports World Lanes         20 Barracudas       2,361
+5 Sports World Lanes         19 Terrapins        2,332
+5 Sports World Lanes         17 Orcas            2,306
+5 Sports World Lanes         20 Manatees         2,251
+6 Totem Lanes                24 Orcas            2,416
+6 Totem Lanes                22 Dolphins         2,390
+6 Totem Lanes                23 Sharks           2,373
+6 Totem Lanes                21 Marlins          2,367
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+6 Totem Lanes                22 Terrapins        2,362
+6 Totem Lanes                21 Manatees         2,348
+6 Totem Lanes                24 Barracudas       2,312
+6 Totem Lanes                23 Swordfish        2,272
+7 Acapulco Lanes             28 Dolphins         2,415
+7 Acapulco Lanes             25 Swordfish        2,399
+7 Acapulco Lanes             26 Sharks           2,384
+7 Acapulco Lanes             27 Terrapins        2,379
+7 Acapulco Lanes             26 Manatees         2,350
+7 Acapulco Lanes             25 Marlins          2,324
+7 Acapulco Lanes             27 Orcas            2,306
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+7 Acapulco Lanes             28 Barracudas       2,253
+8 Red Rooster Lanes          31 Manatees         2,461
+8 Red Rooster Lanes          32 Orcas            2,363
+8 Red Rooster Lanes          30 Barracudas       2,359
+8 Red Rooster Lanes          29 Marlins          2,359
+8 Red Rooster Lanes          32 Swordfish        2,358
+8 Red Rooster Lanes          30 Sharks           2,343
+8 Red Rooster Lanes          29 Terrapins        2,340
+8 Red Rooster Lanes          31 Dolphins         2,301
+9 Thunderbird Lanes          36 Dolphins         2,374
+9 Thunderbird Lanes          34 Barracudas       2,373
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+9 Thunderbird Lanes          33 Terrapins        2,353
+9 Thunderbird Lanes          36 Swordfish        2,331
+9 Thunderbird Lanes          33 Sharks           2,321
+9 Thunderbird Lanes          35 Orcas            2,311
+9 Thunderbird Lanes          35 Manatees         2,302
+9 Thunderbird Lanes          34 Marlins          2,291
+10 Bolero Lanes              40 Barracudas       2,378
+10 Bolero Lanes              37 Dolphins         2,366
+10 Bolero Lanes              40 Swordfish        2,340
+10 Bolero Lanes              38 Sharks           2,339
+10 Bolero Lanes              38 Orcas            2,338
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+10 Bolero Lanes              37 Marlins          2,333
+10 Bolero Lanes              39 Manatees         2,290
+10 Bolero Lanes              39 Terrapins        2,265
+11 Imperial Lanes            41 Marlins          2,391
+11 Imperial Lanes            43 Terrapins        2,383
+11 Imperial Lanes            42 Dolphins         2,348
+11 Imperial Lanes            44 Manatees         2,341
+11 Imperial Lanes            44 Barracudas       2,327
+11 Imperial Lanes            42 Sharks           2,316
+11 Imperial Lanes            43 Swordfish        2,292
+11 Imperial Lanes            41 Orcas            2,283
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+12 Sports World Lane         48 Barracudas       2,408
+12 Sports World Lane         45 Manatees         2,404
+12 Sports World Lane         45 Marlins          2,367
+12 Sports World Lane         47 Swordfish        2,352
+12 Sports World Lane         48 Orcas            2,320
+12 Sports World Lane         46 Terrapins        2,310
+12 Sports World Lane         47 Sharks           2,298
+12 Sports World Lane         46 Dolphins         2,285
+13 Totem Lanes               50 Sharks           2,461
+13 Totem Lanes               50 Manatees         2,426
+13 Totem Lanes               49 Swordfish        2,380
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+13 Totem Lanes               51 Orcas            2,365
+13 Totem Lanes               51 Terrapins        2,360
+13 Totem Lanes               52 Barracudas       2,333
+13 Totem Lanes               49 Marlins          2,327
+13 Totem Lanes               52 Dolphins         2,313
+14 Acapulco Lanes            54 Terrapins        2,370
+14 Acapulco Lanes            55 Orcas            2,351
+14 Acapulco Lanes            54 Barracudas       2,348
+14 Acapulco Lanes            53 Marlins          2,338
+14 Acapulco Lanes            56 Manatees         2,312
+14 Acapulco Lanes            53 Sharks           2,303
+
+Tournaments            Match ID Team Name       Total 
+-------------------- ---------- --------------- ------
+14 Acapulco Lanes            56 Swordfish        2,288
+14 Acapulco Lanes            55 Dolphins         2,281
+
+112 rows selected. 
+
+
+First Name Last Name       Address                   City            Zipcode Phone Number  
+---------- --------------- ------------------------- --------------- ------- --------------
+William    Thompson        122 Spring Valley Drive   Duvall          98019   (206) 555-8989
+Sarah      Thompson        122 Spring Valley Drive   Duvall          98019   (206) 555-8989
+Mary       Thompson        122 Spring Valley Drive   Duvall          98019   (206) 555-8989
+Michael    Hernandez       47 Harvard Drive          Kirkland        98033   (206) 889-9191
+Kendra     Hernandez       47 Harvard Drive          Kirkland        98033   (206) 889-9191
+David      Fournier        67 Willow Drive           Bothell         98123   (206) 555-9876
+Barbara    Fournier        67 Willow Drive           Bothell         98123   (206) 555-9876
+
+7 rows selected. 
+
